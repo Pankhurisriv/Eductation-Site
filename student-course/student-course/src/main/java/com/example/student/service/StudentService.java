@@ -17,7 +17,7 @@ import java.util.TreeSet;
 @Service
 @AllArgsConstructor
 public class StudentService {
-//    private final static Logger LOG = LoggerFactory.getLogger(StudentService.class);
+
 
     private StudentRepository studentRepository;
     private CourseService courseService;
