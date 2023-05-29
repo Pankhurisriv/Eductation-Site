@@ -1,4 +1,4 @@
-# Eductation-Site
+# Education-Site
  This API performs all the fundamental CRUD operations related to various courses and students.
  By Using this RESTful API one can create a web application where one can Register and Login into the application and the User can manage all the different courses and students by adding, updating, deleting courses, enrolling students into different courses, view details of student, etc.
 
