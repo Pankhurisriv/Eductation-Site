@@ -4,7 +4,7 @@
 
 Tech stack
 ______________________
-Java 8
+Java 17
 _____
 Spring Boot, Hibernate
 _______
