@@ -10,7 +10,7 @@ Spring Boot, Hibernate
 _______
 Lombok For Building POJO
 ______________
-MySql Datbase
+MySql Database
 ______________
 SwaggerApi - For API Documemtation
 _________________
